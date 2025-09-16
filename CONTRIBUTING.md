@@ -7,3 +7,4 @@ Notes and usage details for sysplant.
 - clarify the setup steps
 - fix a small wording issue
 - link the usage section
+- clarify the setup steps
